@@ -1,7 +1,7 @@
 # pmodPhy1000Base-T1
  Pmod™ Compatible Automotive Ethernet PHY 100/1000BASE-T1
 
-Extends host controller boards supporting Digilent Pmod™ Compatible headers with a single 100BASE-T1 or 1000BASE-T1 automotive/industrial Gigabit Ethernet PHY. A single pair Unshielded-Twisted-Pair (UTP) cable can be used to make a 15 m long point-to-point connection between two devices.
+Extends host controller boards supporting Digilent Pmod™ Compatible headers with a single 100BASE-T1 or 1000BASE-T1 automotive/industrial Gigabit Ethernet PHY. A single pair of Unshielded-Twisted-Pair (UTP) cables can be used to make a 15 m long point-to-point connection between two devices.
 
 Features:
 - 100/1000BASE-T1 Ethernet PHY
